@@ -1,0 +1,13 @@
+C:\Users\vansh\source\repos\Billing system\Billing system\bin\Debug\Billing system.exe.config
+C:\Users\vansh\source\repos\Billing system\Billing system\bin\Debug\Billing system.exe
+C:\Users\vansh\source\repos\Billing system\Billing system\bin\Debug\Billing system.pdb
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.csproj.AssemblyReference.cache
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.csproj.SuggestedBindingRedirects.cache
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing_system.Form1.resources
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing_system.Properties.Resources.resources
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.csproj.GenerateResource.cache
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.csproj.CoreCompileInputs.cache
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.exe
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing system.pdb
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing_system.main.resources
+C:\Users\vansh\source\repos\Billing system\Billing system\obj\Debug\Billing_system.bill.resources
